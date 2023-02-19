@@ -1,7 +1,7 @@
 # Analyze-reviews-to-predict-ratings-by-attribute
 
 # Predict Analysis Algorithm
-![image](https://user-images.githubusercontent.com/32058390/218953559-e1e42f98-1f79-431f-ad38-8bc71b9a1a01.png)
+![image](https://user-images.githubusercontent.com/32058390/219949279-3645cd81-33af-458e-98cc-c65e149266a2.png)
 
 
 # Calculate Score
