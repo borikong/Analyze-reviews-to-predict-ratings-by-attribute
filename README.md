@@ -5,4 +5,4 @@
 
 
 # Calculate Score
-![그림2](https://user-images.githubusercontent.com/32058390/218945869-654fdf9a-5383-4e39-bf28-8c64f31738bd.png)
+![image](https://user-images.githubusercontent.com/32058390/219949216-4742ba9d-cf45-4c6a-b62c-7432818cf792.png)
